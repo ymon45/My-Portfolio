@@ -182,11 +182,15 @@ ul {
 .home-intro .intro-content {
     position: relative;
 }
-.home-intro .intro-content .intro-caption {
+.hero{
+    overflow: hidden;
+    max-height: fit-content;
+}
+/* .home-intro .intro-content .intro-caption {
     position: absolute;
     top: 50%;
     transform: translateY(-50%);
-}
+} */
 .home-intro .intro-content .intro-caption span {
     font-size: 26px;
     font-weight: 300;
@@ -229,7 +233,7 @@ ul {
     background: url(../images/intro-image.jpg);
     background-size: center;
     background-repeat: no-repeat;
-    background-position: 50% 100%;
+    background-position: 55% 50%;
     height: 100%;
     border-radius: 0 3px 3px 0;
 }
