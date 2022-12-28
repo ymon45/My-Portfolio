@@ -230,7 +230,7 @@ ul {
     margin-bottom: 30px;
 }
 .about .content-right {
-    background: url(images/WhatsApp Image 2022-12-12 at 11.24.31 AM.jpeg);
+    background: url('images/WhatsApp Image 2022-12-12 at 11.24.31 AM.jpeg');
     background-size: center;
     background-repeat: no-repeat;
     background-position: 55% 50%;
