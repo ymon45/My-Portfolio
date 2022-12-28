@@ -230,7 +230,7 @@ ul {
     margin-bottom: 30px;
 }
 .about .content-right {
-    background: url('images/myimage.jpeg');
+    background: url('./images/myimage.jpeg');
     background-size: center;
     background-repeat: no-repeat;
     background-position: 55% 50%;
