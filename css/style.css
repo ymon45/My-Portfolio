@@ -230,7 +230,7 @@ ul {
     margin-bottom: 30px;
 }
 .about .content-right {
-    background: url(https://drive.google.com/file/d/1d6p2ruqzLnFRSLLL1JxSF1Fe39PuUuZT/view?usp=share_link);
+    background: url("https://drive.google.com/file/d/1d6p2ruqzLnFRSLLL1JxSF1Fe39PuUuZT/view?usp=share_link");
     background-size: center;
     background-repeat: no-repeat;
     background-position: 55% 50%;
